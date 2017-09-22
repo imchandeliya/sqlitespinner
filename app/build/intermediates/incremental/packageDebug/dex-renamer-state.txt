@@ -1,0 +1,4 @@
+#Fri Sep 22 00:18:34 IST 2017
+base.0=F\:\\study\\semester_7\\wireless mobile computing  lab\\sqlitespinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\study\\semester_7\\wireless mobile computing  lab\\sqlitespinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
